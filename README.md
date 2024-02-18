@@ -16,7 +16,8 @@ This project was intended to be a 2D to 3D image convertion project but due to l
 1. CV2
 2. NUMPHY
 ## How to configure
-1. An external camera
-2. A library to store Shape_detection_module.py
+1. pip install opencv-python flask
+2. An external camera
+3. A library to store Shape_detection_module.py
 ## How to Run
 Once camera is set up and steady, run the program. 
